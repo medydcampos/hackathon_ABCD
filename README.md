@@ -1,6 +1,6 @@
 # Description
 
-This study utilized data from the National Family Health Survey (NFHS 5, 2019-2021) to examine the hypothesis that the presence of the father during pre-
+This study utilized data from the National Family Health Survey (NFHS 5, 2019-2021, open source) to examine the hypothesis that the presence of the father during pre-
 natal care significantly impacts the birth weight of newborns in an Indian sample. A robust regression analysis, which is less sensitive to outliers, was employed. The results indicate that the mother’s report of the father’s presence at antenatal visits is associated with a decrease in the baby’s birth weight by approximately 26.47 grams compared to the reported father’s absence, after controlling for so-
 ciodemographic factors. This study suggests that patriarchal social norms and behaviors may contribute to problematic scenarios characterized by low levels of social well-being and threats to the lives of women and children.
 
